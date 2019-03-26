@@ -32,7 +32,8 @@ namespace lab1
             var array = Encoding.UTF8.GetBytes(fileText);
             var encoder = new MyEncoder(array);
             var encodedFilePath = filePath.Split('.')[0] + "Base64.txt";
-            
+            var archiveFilePath = filePath.Split('.')[0] + ".gz";
+
 
             if (!File.Exists(encodedFilePath))
             {
@@ -44,6 +45,9 @@ namespace lab1
             }
             Console.WriteLine("\n--------ENCODED FILE----------\n");
             AmountAndEntropy(encodedFilePath);
+
+            Console.WriteLine("\n--------ARCHIVE FILE----------\n");
+            AmountAndEntropy(archiveFilePath);
 
             Console.WriteLine("\n------------------------------------------------------\n");
         }
