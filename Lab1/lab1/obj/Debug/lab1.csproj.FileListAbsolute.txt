@@ -1,0 +1,14 @@
+C:\Users\olesp\Documents\Studying\3 Курс\кс\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\olesp\Documents\Studying\3 Курс\кс\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\olesp\Documents\Studying\3 Курс\кс\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\olesp\Documents\Studying\3 Курс\кс\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\olesp\Documents\Studying\3 Курс\кс\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\olesp\Documents\Studying\3 Курс\кс\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\olesp\Documents\Studying\3 Курс\кс\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\skantorp\Documents\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\skantorp\Documents\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\skantorp\Documents\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\skantorp\Documents\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\skantorp\Documents\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\skantorp\Documents\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\skantorp\Documents\lab1\lab1\obj\Debug\lab1.pdb
