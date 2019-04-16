@@ -1,3 +1,4 @@
+
 #include <iostream> 
 using namespace std; 
   
@@ -31,9 +32,14 @@ void printArray(int arr[], int n)
 // Driver program to test above functions. 
 int main() 
 { 
-    int arr[] = { 34, 2, 10, -9 }; 
-    int n = sizeof(arr) / sizeof(arr[0]); 
-  
+    srand(time(0));
+    int arr [100000]={};
+    
+    
+  for(int i=0;i<100000;i++){
+      arr[i]=(rand() % 100000) + 1;
+  }
+  int n = sizeof(arr) / sizeof(arr[0]); 
     gnomeSort(arr, n); 
     printArray(arr, n); 
   
